@@ -1,5 +1,5 @@
 {
-  "name": "CheemsBot-MD",
+  "name": "XynnBotzMD",
   "version": "4.0.0",
   "description": "Automated whatsapp md bot created using nodejs",
   "main": "xeon.js",
@@ -17,7 +17,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "Xeon",
+  "author": "FhriiXyz",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.1.0",
