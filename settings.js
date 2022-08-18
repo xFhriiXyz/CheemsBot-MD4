@@ -47,9 +47,9 @@ global.location = "Isekai" //ur location
 global.owner = ['6282118868431']
 global.ownertag = '6282118868431' //ur tag number
 global.botname = 'XynnBotzMD' //ur bot name
-global.linkz = "https://youtube.com/channel/UC1ikkqsPvtWuE_QonsET1yg" //your theme url which will be displayed on whatsapp
-global.websitex = "https://chat.whatsapp.com/GdXv5LxKfDPHJ4WOH2rNu5" //ur website to be displayed
-global.botscript = 'https://youtu.be/k3QkeVdAMOs' //script link
+global.linkz = "https://youtube.com/channel/UCOXMmo34qqRx1Q64nY3BK5w" //your theme url which will be displayed on whatsapp
+global.websitex = "https://api.whatsapp.com/send/?phone=6282118868431&type=phone_number&app_absent=0" //ur website to be displayed
+global.botscript = 'https://github.com/xFhriiXyz/CheemsBot-MD4' //script link
 global.reactmoji = "🗿" //ur menu react emoji
 global.themeemoji = "😩" //ur theme emoji
 global.packname = "Sticker by" //ur sticker watermark packname
