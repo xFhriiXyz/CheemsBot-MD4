@@ -58,7 +58,7 @@ global.author = "XynnBotzMD" //ur sticker watermark author
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/d85368c8c57b068e62fd47f6755317d6.jpg") //ur thumb pic
 global.log0 = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur logo pic
-global.err4r = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur error pic
+global.err4r = fs.readFileSync("./XeonMedia/theme/9aa9513b670da604b4dcd33284b0f419.jpg") //ur error pic
 global.thumb = fs.readFileSync("./XeonMedia/theme/d85368c8c57b068e62fd47f6755317d6.jpg") //ur thumb pic
 
 //damtabase
